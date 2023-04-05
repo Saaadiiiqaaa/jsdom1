@@ -13,7 +13,7 @@ function call_me(){
 }
 let text=document.getElementById('textchange')
 function change_me(){
-    let newtext="hellooo world"
+    let newtext.innerHTML="hellooo world"
    console.log(newtext);
 }
 
